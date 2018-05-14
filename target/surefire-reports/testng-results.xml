@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="33966" started-at="2018-05-14T14:29:50Z" finished-at="2018-05-14T14:30:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33966" started-at="2018-05-14T14:29:50Z" finished-at="2018-05-14T14:30:24Z">
+      <class name="com.crmqa.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="setUp" is-config="true" duration-ms="6926" started-at="2018-05-14T14:29:50Z" finished-at="2018-05-14T14:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageImage()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="loginPageImage" duration-ms="31" started-at="2018-05-14T14:29:57Z" finished-at="2018-05-14T14:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageImage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="tearDown" is-config="true" duration-ms="77" started-at="2018-05-14T14:29:57Z" finished-at="2018-05-14T14:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="setUp" is-config="true" duration-ms="5885" started-at="2018-05-14T14:29:57Z" finished-at="2018-05-14T14:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="loginPageTitleTest" duration-ms="20" started-at="2018-05-14T14:30:03Z" finished-at="2018-05-14T14:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="tearDown" is-config="true" duration-ms="74" started-at="2018-05-14T14:30:03Z" finished-at="2018-05-14T14:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="setUp" is-config="true" duration-ms="9277" started-at="2018-05-14T14:30:03Z" finished-at="2018-05-14T14:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="loginTest" duration-ms="11578" started-at="2018-05-14T14:30:13Z" finished-at="2018-05-14T14:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crmqa.qa.tests.LoginPageTest@153f5a29]" name="tearDown" is-config="true" duration-ms="77" started-at="2018-05-14T14:30:24Z" finished-at="2018-05-14T14:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crmqa.qa.tests.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

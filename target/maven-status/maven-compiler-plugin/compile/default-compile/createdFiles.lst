@@ -1,0 +1,8 @@
+com/crmqa/qa/pages/HomePage.class
+com/crmqa/qa/base/TestBase.class
+com/crmqa/qa/pages/ContactsPage.class
+com/crmqa/qa/pages/SignUpPage.class
+com/crmqa/qa/utility/TestUtil.class
+com/crmqa/qa/pages/DealsPage.class
+com/crmqa/qa/pages/TasksPage.class
+com/crmqa/qa/pages/LoginPage.class
